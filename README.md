@@ -1,6 +1,6 @@
 # Library-Management-System
-# Reg No: 212222240034
-# Name: HARIPRASATH S
+# Reg No: 212223230106
+# Name: Kishore N
 # Date:
 
 
